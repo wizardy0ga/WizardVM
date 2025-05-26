@@ -58,7 +58,6 @@ variable http_server_port {
     default = 80
 }
 
-
 variable sysmon_config_url {
     type    = string
     default = "https://raw.githubusercontent.com/olafhartong/sysmon-modular/master/sysmonconfig-with-filedelete.xml"
