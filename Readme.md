@@ -30,7 +30,7 @@ In this context, control defined as variables which control how the analysis env
 ## Setup instructions
 
 > [!NOTE]
-> This recipe has been tested with packer version 1.10.3, vmware-iso plugin version 1.0.11.
+> This recipe has been tested with packer version 1.12.0, vmware-iso plugin version 1.1.0.
 
 <details closed>
 <summary><h3>Setting up packer</h3></summary>
